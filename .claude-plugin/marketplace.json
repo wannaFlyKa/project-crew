@@ -1,0 +1,19 @@
+{
+  "name": "project-crew",
+  "owner": {
+    "name": "wannaFlyKa",
+    "url": "https://github.com/wannaFlyKa"
+  },
+  "metadata": {
+    "description": "One plugin: project-crew, a chief of staff for one software project."
+  },
+  "plugins": [
+    {
+      "name": "project-crew",
+      "source": "./",
+      "description": "A chief of staff for one software project: one session keeps a JSON agenda and carries each task from investigation to a draft GitHub PR.",
+      "version": "0.1.0",
+      "license": "MIT"
+    }
+  ]
+}

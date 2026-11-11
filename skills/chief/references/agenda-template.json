@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "updatedAt": "<UTC_NOW>",
+  "budget": "low",
+  "repo": {
+    "defaultBranch": "<DEFAULT_BRANCH>",
+    "testCommand": "<TEST_COMMAND>",
+    "tracker": "<github|text>"
+  },
+  "workerPermissionMode": null,
+  "cadence": {
+    "mode": "manual",
+    "intervalMinutes": null,
+    "cronId": null,
+    "cronCreatedAt": null,
+    "lastPassAt": null
+  },
+  "tasks": [],
+  "pendingUserActions": []
+}

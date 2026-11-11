@@ -1,0 +1,13 @@
+{
+  "name": "project-crew",
+  "version": "0.1.0",
+  "description": "A chief of staff for one software project: one session keeps a JSON agenda and carries each task from investigation to a draft GitHub PR.",
+  "author": {
+    "name": "wannaFlyKa",
+    "url": "https://github.com/wannaFlyKa"
+  },
+  "homepage": "https://github.com/wannaFlyKa/project-crew",
+  "repository": "https://github.com/wannaFlyKa/project-crew",
+  "license": "MIT",
+  "keywords": ["agenda", "worktree", "draft-pr", "code-review", "technical-writing"]
+}
